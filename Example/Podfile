@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PersonPrefence_Example' do
+  pod 'PersonPrefence', :path => '../'
+
+  target 'PersonPrefence_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
