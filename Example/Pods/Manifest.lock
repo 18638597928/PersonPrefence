@@ -1,0 +1,16 @@
+PODS:
+  - PersonPrefence (0.1)
+
+DEPENDENCIES:
+  - PersonPrefence (from `../`)
+
+EXTERNAL SOURCES:
+  PersonPrefence:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PersonPrefence: 93230c2c5199aca3a2f16087d635e1590caa954f
+
+PODFILE CHECKSUM: 168f7e8dd44b57d031950f4edd87a8789fe1ca07
+
+COCOAPODS: 1.7.5

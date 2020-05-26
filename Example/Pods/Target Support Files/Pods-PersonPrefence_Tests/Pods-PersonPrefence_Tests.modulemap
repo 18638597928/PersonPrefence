@@ -1,0 +1,6 @@
+framework module Pods_PersonPrefence_Tests {
+  umbrella header "Pods-PersonPrefence_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

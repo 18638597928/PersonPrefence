@@ -1,0 +1,6 @@
+framework module PersonPrefence {
+  umbrella header "PersonPrefence-umbrella.h"
+
+  export *
+  module * { export * }
+}
